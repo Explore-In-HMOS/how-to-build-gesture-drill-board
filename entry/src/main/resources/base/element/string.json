@@ -1,0 +1,36 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "drill_board_title",
+      "value": "Drill Board"
+    },
+    {
+      "name": "drag_hint",
+      "value": "Drag me"
+    },
+    {
+      "name": "status_all_done",
+      "value": "All done!"
+    },
+    {
+      "name": "status_in_progress",
+      "value": "In progress"
+    },
+    {
+      "name": "confirm_modifier_active",
+      "value": "Confirm modifier active"
+    }
+  ]
+}

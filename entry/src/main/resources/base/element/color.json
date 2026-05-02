@@ -1,0 +1,48 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "board_background",
+      "value": "#0A0C10"
+    },
+    {
+      "name": "tile_background",
+      "value": "#1A2030"
+    },
+    {
+      "name": "header_text",
+      "value": "#7B8298"
+    },
+    {
+      "name": "hint_text",
+      "value": "#7B8298"
+    },
+    {
+      "name": "status_text_active",
+      "value": "#00E5A0"
+    },
+    {
+      "name": "status_text_idle",
+      "value": "#7B8298"
+    },
+    {
+      "name": "status_subtitle",
+      "value": "#4A5568"
+    },
+    {
+      "name": "pinch_icon",
+      "value": "#00E5A0"
+    },
+    {
+      "name": "drag_icon",
+      "value": "#FF6B9D"
+    },
+    {
+      "name": "drag_preview_background",
+      "value": "#2A1525"
+    }
+  ]
+}
