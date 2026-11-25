@@ -2,7 +2,7 @@
 
 # How to Build Gesture Drill Board
 
-A glove-friendly gesture drill board for HarmonyOS Next smart wearables. The app presents a round watch-face layout with two interactive drill stations — **Pinch** and **Drag** — that exercise six ArkUI gesture and event APIs in a single, cohesive wearable task. Touch intent can change mid-task: the system reroutes gap-touches, filters gestures per station, moves icons inside tiles, and tunes frame rates on the fly.
+A glove-friendly gesture drill board for HarmonyOS smart wearables. The app presents a round watch-face layout with two interactive drill stations — **Pinch** and **Drag** — that exercise six ArkUI gesture and event APIs in a single, cohesive wearable task. Touch intent can change mid-task: the system reroutes gap-touches, filters gestures per station, moves icons inside tiles, and tunes frame rates on the fly.
 
 # Preview
 
